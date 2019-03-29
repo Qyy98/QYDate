@@ -1,5 +1,5 @@
 # QYDate
-### A date calculation class which can calculate date conveniently.
+### A date calculation class in swift which can calculate date conveniently.
 #### It has the following functions:
 
 * Get the current time
